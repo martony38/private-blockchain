@@ -4,6 +4,7 @@
   "description": "This project creates a Blockchain application to store data into the blocks",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest"
   },
   "author": "martony@gmail.com",
